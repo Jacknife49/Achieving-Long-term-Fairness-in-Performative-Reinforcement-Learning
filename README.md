@@ -1,0 +1,1 @@
+Replace the given python file with the actual performative_prediction file in src folder of [Performative RL](https://github.com/gradanovic/icml2023-performative-rl-paper-code), and follow its instructions to execute the policy gradient algorithm.
